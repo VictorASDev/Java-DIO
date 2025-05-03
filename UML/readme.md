@@ -25,4 +25,4 @@ A classe `iPhone` implementa três interfaces:
 
 Abaixo está o diagrama UML representando a relação entre a classe `iPhone` e as três interfaces que ela implementa:
 
-![UML do iPhone](./Classe UML.png)
+![UML do iPhone](Classe-UML.png)
